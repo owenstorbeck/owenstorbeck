@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @owenstorbeck
+- 👀 I’m interested in coding and hockey
+- 🌱 I’m currently learning object-oriented computing
+- 💞️ I’m looking to collaborate on nothing right now
+- 📫 How to reach me ostorbeck@oakland.edu
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I cannot ride a bike
